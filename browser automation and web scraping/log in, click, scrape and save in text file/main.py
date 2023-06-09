@@ -26,7 +26,7 @@ def clean_text(text):
 def write_file(text):
   """Write input text into a text file"""
   filename = f"{dt.now().strftime('%Y-%m-%d.%H-%M-%S')}.txt"
-  # f = file
+  # f = string
   # dt = datetime
   with open(filename, 'w') as file:
     file.write(text)
