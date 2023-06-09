@@ -1,6 +1,10 @@
 # Author: Zarbio Romulo
 
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+
+service = Service('C:\\Users\\WODZAROD\\Downloads\\chromedriver.exe') # windows
+# /Users/WODZAROD/Downloads/chromedriver.exe" # Linux
 
 def get_driver():
   # Set options to make browsing easier
@@ -12,7 +16,7 @@ def get_driver():
   options.add_experimental_option("excludeSwitches", ["enable-automation"])
   options.add_argument("disable-blink-features=AutomationControlled")
 
-  driver = webdriver.Chrome(options=options)
+  driver = webdriver.Chrome(service=service, options=options)
   driver.get("http://automated.pythonanywhere.com")
   return driver
 
