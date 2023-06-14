@@ -1,0 +1,2367 @@
+SAP_VISA_PERU_CLESS    1191s 620ms 689us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 43 6F 6E 6E 65 63 74 4C 4C 20 2D 20 6E 43 6F 6E   ConnectLL - nCon
+ 6E 65 63 74 45 72 72 6F 72 20 2D 3E 20 00         nectError -> .
+
+SAP_VISA_PERU_CLESS    1198s 922ms 929us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 31            Disconnect 01
+
+SAP_VISA_PERU_CLESS    1198s 922ms 970us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 32            Disconnect 02
+
+SAP_VISA_PERU_CLESS    1198s 923ms 440us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 33            Disconnect 03
+
+SAP_VISA_PERU_CLESS    1198s 923ms 469us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 35            Disconnect 05
+
+SAP_VISA_PERU_CLESS    1199s 020ms 130us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 43 6F 6E 6E 65 63 74 4C 4C                        ConnectLL
+
+SAP_VISA_PERU_CLESS    1199s 020ms 850us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 43 6F 6E 6E 65 63 74 4C 4C 20 2D 20 68 53 65 73   ConnectLL - hSes
+ 73 69 6F 6E 20 2D 3E 20 39 33 63 30 30 32 35 34   sion -> 93c00254
+
+SAP_VISA_PERU_CLESS    1199s 098ms 950us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 43 6F 6E 6E 65 63 74 4C 4C 20 2D 20 6E 43 6F 6E   ConnectLL - nCon
+ 6E 65 63 74 45 72 72 6F 72 20 2D 3E 20 00         nectError -> .
+
+SAP_VISA_PERU_CLESS    1199s 098ms 989us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 43 6F 6E 6E 65 63 74 4C 4C 20 2D 20 6E 4B 65 79   ConnectLL - nKey
+ 20 2D 3E 20 00                                     -> .
+
+SAP_VISA_PERU_CLESS    1200s 335ms 620us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20      fEnvRecMensaje 
+
+SAP_VISA_PERU_CLESS    1200s 335ms 679us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 47 73 74 47 6C 6F 62 61 6C 65 73 2E 69 49 6E 64   GstGlobales.iInd
+ 65 78 4D 65 72 63 68 28 31 29 20 2D 3E 20 30      exMerch(1) -> 0
+
+SAP_VISA_PERU_CLESS    1200s 335ms 710us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 70 4D 65 6E 73 61 6A 65 2E 63 52 65 73 65   > pMensaje.cRese
+ 72 76 65 64 46 69 6C 65 35 35 4C 65 6E 20         rvedFile55Len 
+
+SAP_VISA_PERU_CLESS    1200s 335ms 739us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 5F 34 01 00 82                                    _4...
+
+SAP_VISA_PERU_CLESS    1200s 335ms 759us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F                                                o
+
+SAP_VISA_PERU_CLESS    1200s 335ms 790us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1200s 335ms 810us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 28   fEnvRecMensaje (
+ 43 29                                             C)
+
+SAP_VISA_PERU_CLESS    1200s 335ms 839us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 28   fEnvRecMensaje (
+ 44 29                                             D)
+
+SAP_VISA_PERU_CLESS    1200s 354ms 890us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 41 73 73 65 6D 62 6C 65   miIsoMadAssemble
+
+SAP_VISA_PERU_CLESS    1200s 354ms 959us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 41 73 73 65 6D 62 6C 65   miIsoMadAssemble
+ 20 2D 20 63 75 69 42 6D 70 54 79 70 65 5B 30 5D    - cuiBmpType[0]
+ 5B 30 5D 20 2D 3E 20 30 30 30 31                  [0] -> 0001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 000us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 355ms 029us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 070us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 34                     th -> 0004
+
+SAP_VISA_PERU_CLESS    1200s 355ms 160us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 289us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 355ms 319us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 409us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 355ms 459us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 520us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 36                     th -> 0006
+
+SAP_VISA_PERU_CLESS    1200s 355ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 649us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 355ms 700us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 729us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 63                     th -> 000c
+
+SAP_VISA_PERU_CLESS    1200s 355ms 790us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1200s 355ms 880us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 355ms 939us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 356ms 029us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 050us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 356ms 179us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 209us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 356ms 269us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 299us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 356ms 359us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 389us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 356ms 479us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 510us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 356ms 569us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 600us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 356ms 629us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 36                     th -> 0006
+
+SAP_VISA_PERU_CLESS    1200s 356ms 659us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1200s 356ms 780us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 809us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 356ms 909us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 356ms 960us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 357ms 050us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 119us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 357ms 209us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 259us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 357ms 349us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 379us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 357ms 490us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 520us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 357ms 610us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 659us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 357ms 749us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 799us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 357ms 889us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 357ms 919us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 358ms 009us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 358ms 060us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 358ms 140us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 358ms 199us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 259us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 33                     th -> 0003
+
+SAP_VISA_PERU_CLESS    1200s 358ms 289us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 31                              -> 0001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 379us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 358ms 439us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 529us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 358ms 580us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 619us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 33                     th -> 0003
+
+SAP_VISA_PERU_CLESS    1200s 358ms 680us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 31                              -> 0001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 770us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 358ms 819us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 850us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 32                     th -> 0002
+
+SAP_VISA_PERU_CLESS    1200s 358ms 909us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1200s 358ms 999us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 030us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 140us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 200us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 290us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 339us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 429us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 459us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 600us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 690us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 740us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 830us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 359ms 889us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 359ms 969us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 360ms 230us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 360ms 300us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 360ms 329us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1200s 360ms 400us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1200s 360ms 419us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 37                                          007
+
+SAP_VISA_PERU_CLESS    1200s 360ms 460us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 32 35                     th -> 0025
+
+SAP_VISA_PERU_CLESS    1200s 360ms 500us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 32                              -> 0002
+
+SAP_VISA_PERU_CLESS    1200s 360ms 529us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 52 45 4C 45 41 53 45 5F 45 4D 56 20 31 20 2D    RELEASE_EMV 1 -
+ 3E 20 63                                          > c
+
+SAP_VISA_PERU_CLESS    1200s 360ms 560us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 28 32   EncryptCFB_V3 (2
+ 29                                                )
+
+SAP_VISA_PERU_CLESS    1200s 685ms 719us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1200s 745ms 670us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1200s 805ms 740us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1200s 865ms 690us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1200s 925ms 739us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1200s 985ms 670us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 045ms 640us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 105ms 769us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 165ms 880us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 235ms 640us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 305ms 710us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 375ms 590us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 445ms 829us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 516ms 689us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 585ms 890us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 655ms 909us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 715ms 560us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 775ms 630us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 835ms 559us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1201s 835ms 669us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 835ms 700us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 835ms 769us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 835ms 790us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1201s 835ms 859us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 835ms 890us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1201s 835ms 949us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 835ms 980us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1201s 836ms 039us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 070us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 836ms 139us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 170us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 836ms 229us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 260us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 836ms 330us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 360us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 836ms 420us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 450us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 836ms 530us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 559us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 836ms 620us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 649us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 836ms 720us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 739us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 836ms 810us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 829us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 836ms 900us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 836ms 929us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1201s 836ms 970us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 33                     th -> 0003
+
+SAP_VISA_PERU_CLESS    1201s 836ms 999us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 31                              -> 0001
+
+SAP_VISA_PERU_CLESS    1201s 837ms 070us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 099us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 837ms 160us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 189us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 837ms 250us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 279us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 36                                          006
+
+SAP_VISA_PERU_CLESS    1201s 837ms 350us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 369us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 837ms 440us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 459us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1201s 837ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 569us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 837ms 649us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 669us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 837ms 739us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 770us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 837ms 829us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 860us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 837ms 919us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 837ms 950us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1201s 838ms 009us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 838ms 040us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 838ms 109us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 838ms 140us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 838ms 209us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 838ms 230us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 838ms 299us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1201s 838ms 330us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1201s 906ms 099us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 54 52 41 4E 53 4D 49 54 49 45 4E 44 4F 2E 2E    TRANSMITIENDO..
+ 2E                                                .
+
+SAP_VISA_PERU_CLESS    1201s 906ms 259us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 53 65 6E 64 4D 73 67 49 53 4F                   SendMsgISO
+
+SAP_VISA_PERU_CLESS    1201s 906ms 520us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 53 65 6E 64 4D 73 67 49 53 4F                     SendMsgISO
+
+SAP_VISA_PERU_CLESS    1201s 907ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 69 54 6D 70 20 31 20 2D 3E 20 31 37 34          iTmp 1 -> 174
+
+SAP_VISA_PERU_CLESS    1201s 907ms 619us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 78 5B 31 37 34 5D                              Tx[174]
+
+SAP_VISA_PERU_CLESS    1201s 907ms 639us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 00 AC 60 00 06 00 00 01 20 30 20 05 80 20 C1 82   ..`..... 0 .. ..
+ 14 12 00 00 00 00 00 00 12 00 00 01 37 00 51 00   ............7.Q.
+ 06 00 37 23 94 D9 A7 77 D8 1C BF BE 08 D2 51 73   ..7#...w......Qs
+ 70 B1 32 B0 41 B1 33 33 37 30 30 30 31 37 33 33   p.2.A.3370001733
+ 37 35 36 34 33 34 30 20 20 20 20 20 20 00 10 30   7564340      ..0
+ 30 30 31 33 36 30 35 32 31 06 04 00 63 5F 34 01   001360521...c_4.
+ 00 82 02 5C 00 9F 26 08 B5 9C 29 1B F8 14 2C 7B   ...\..&...)...,{
+ 9F 27 01 40 9F 36 02 01 66 9F 10 07 06 01 0A 03   .'.@.6..f.......
+ 60 A4 00 95 05 00 00 00 80 00 9F 34 03 1E 03 00   `..........4....
+ 9F 37 04 3F 57 26 58 9A 03 14 05 21 00 03 33 38   .7.?W&X....!..38
+ 63 00 11 00 09 32 30 30 30 33 33 30 30 35         c....200033005
+
+SAP_VISA_PERU_CLESS    1201s 907ms 699us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 75 63 54 69 70 6F 44 4F 70 65 72 61 63 69 6F    ucTipoDOperacio
+ 6E 20 2D 3E 20 30 33                              n -> 03
+
+SAP_VISA_PERU_CLESS    1202s 022ms 410us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 69 54 6D 70 20 32 20 2D 3E 20 38 37             iTmp 2 -> 87
+
+SAP_VISA_PERU_CLESS    1202s 022ms 480us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 31 29                                       o(1)
+
+SAP_VISA_PERU_CLESS    1202s 022ms 510us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1202s 022ms 539us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 47 73   TRACE 02(A) - Gs
+ 74 47 6C 6F 62 61 6C 65 73 2E 75 63 54 69 70 6F   tGlobales.ucTipo
+ 44 4F 70 65 72 61 63 69 6F 6E 20 2D 3E 20 33      DOperacion -> 3
+
+SAP_VISA_PERU_CLESS    1202s 022ms 570us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 47 73   TRACE 02(A) - Gs
+ 74 47 6C 6F 62 61 6C 65 73 2E 69 49 6E 64 65 78   tGlobales.iIndex
+ 4D 65 72 63 68 20 2D 3E 20 30                     Merch -> 0
+
+SAP_VISA_PERU_CLESS    1202s 022ms 609us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 69 49   TRACE 02(A) - iI
+ 6E 63 72 65 6D 65 6E 74 61 72 54 72 61 63 65 20   ncrementarTrace 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1202s 022ms 639us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 69 49   TRACE 02(A) - iI
+ 6E 63 72 65 6D 65 6E 74 61 72 54 69 63 6B 65 74   ncrementarTicket
+ 20 2D 3E 20 30                                     -> 0
+
+SAP_VISA_PERU_CLESS    1202s 022ms 670us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 6C 4E   TRACE 02(A) - lN
+ 6F 54 72 61 7A 61 20 2D 3E 20 31 33 37            oTraza -> 137
+
+SAP_VISA_PERU_CLESS    1202s 022ms 699us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 6C 4E   TRACE 02(A) - lN
+ 6F 54 69 63 6B 65 74 20 2D 3E 20 33 34            oTicket -> 34
+
+SAP_VISA_PERU_CLESS    1202s 024ms 259us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 44 29 20 2D 20 6C 4E   TRACE 02(D) - lN
+ 6F 54 72 61 7A 61 20 2D 3E 20 31 33 38            oTraza -> 138
+
+SAP_VISA_PERU_CLESS    1202s 024ms 300us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 44 29 20 2D 20 6C 4E   TRACE 02(D) - lN
+ 6F 54 69 63 6B 65 74 20 2D 3E 20 33 34            oTicket -> 34
+
+SAP_VISA_PERU_CLESS    1202s 024ms 329us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 32 29                                       o(2)
+
+SAP_VISA_PERU_CLESS    1202s 024ms 359us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1202s 024ms 380us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 33 29                                       o(3)
+
+SAP_VISA_PERU_CLESS    1202s 024ms 409us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1202s 042ms 509us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 34 29                                       o(4)
+
+SAP_VISA_PERU_CLESS    1202s 042ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1202s 061ms 279us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 35 29                                       o(5)
+
+SAP_VISA_PERU_CLESS    1202s 061ms 320us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1202s 061ms 359us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 52 78 5B 38 35 5D                                 Rx[85]
+
+SAP_VISA_PERU_CLESS    1202s 061ms 380us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 00 55 60 00 00 00 06 01 30 30 38 01 00 0A C1 80   .U`.....008.....
+ 00 12 00 00 00 00 00 00 12 00 00 01 37 10 12 37   ............7..7
+ 05 21 00 10 30 37 31 38 36 39 20 20 20 20 20 20   .!..071869      
+ 30 30 33 33 37 30 30 30 31 37 33 33 37 35 36 34   0033700017337564
+ 33 34 30 20 20 20 20 20 20 00 10 30 30 30 31 33   340      ..00013
+ 36 30 35 32 31 06 04                              60521..
+
+SAP_VISA_PERU_CLESS    1202s 061ms 509us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65                                          ble
+
+SAP_VISA_PERU_CLESS    1202s 061ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65 20 2D 20 47 70 75 63 42 4D 50 5B 30 5D   ble - GpucBMP[0]
+
+SAP_VISA_PERU_CLESS    1202s 061ms 580us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 30 31 33 30 00 00 00 00                           0130....
+
+SAP_VISA_PERU_CLESS    1202s 061ms 599us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65 20 2D 20 70 73 74 4D 61 64 4F 75 74 2D   ble - pstMadOut-
+ 3E 73 74 72 4D 65 73 73 61 67 65 54 79 70 65      >strMessageType
+
+SAP_VISA_PERU_CLESS    1202s 061ms 629us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 30 31 32 30 00 00 00 00                           0120....
+
+SAP_VISA_PERU_CLESS    1202s 061ms 719us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65 20 2D 20 4F 4B 20 33                     ble - OK 3
+
+SAP_VISA_PERU_CLESS    1202s 061ms 750us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73         fiValidaCampos
+
+SAP_VISA_PERU_CLESS    1202s 061ms 789us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 75 63 54 69 70 6F 44 4F 70 65 72 61 63 69   > ucTipoDOperaci
+ 6F 6E 20 28 33 32 29                              on (32)
+
+SAP_VISA_PERU_CLESS    1202s 061ms 819us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 73 74 72 4D 65 73 73 61 67 65 54 79 70 65   > strMessageType
+ 20 28 30 31 32 30 29                               (0120)
+
+SAP_VISA_PERU_CLESS    1202s 061ms 889us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 52 65 63 4D 65 6E 2D 3E 73 74 72 53 79 73   > RecMen->strSys
+ 74 65 6D 73 54 72 61 63 65 4E 75 6D 20 28 30 30   temsTraceNum (00
+ 30 31 33 37 29                                    0137)
+
+SAP_VISA_PERU_CLESS    1202s 061ms 930us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 53 65 6E 74 4D 65 6E 2D 3E 73 74 72 53 79   > SentMen->strSy
+ 73 74 65 6D 73 54 72 61 63 65 4E 75 6D 20 28 30   stemsTraceNum (0
+ 30 30 31 33 37 29                                 00137)
+
+SAP_VISA_PERU_CLESS    1202s 061ms 959us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 52 65 63 4D 65 6E 2D 3E 73 74 72 54 65 72   > RecMen->strTer
+ 6D 69 6E 61 6C 49 64 65 6E 74 20 28 33 33 37 30   minalIdent (3370
+ 30 30 31 37 29                                    0017)
+
+SAP_VISA_PERU_CLESS    1202s 061ms 999us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 53 65 6E 74 4D 65 6E 2D 3E 73 74 72 54 65   > SentMen->strTe
+ 72 6D 69 6E 61 6C 49 64 65 6E 74 20 28 33 33 37   rminalIdent (337
+ 30 30 30 31 37 29                                 00017)
+
+SAP_VISA_PERU_CLESS    1202s 062ms 040us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 52   fiValidaCampos R
+ 45 54 5F 4F 4B 28 32 29                           ET_OK(2)
+
+SAP_VISA_PERU_CLESS    1202s 062ms 069us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 47   fEnvRecMensaje G
+ 70 75 63 45 4D 56 52 65 73 70 6F 6E 73 65 43 6F   pucEMVResponseCo
+ 64 65 20 2D 3E 20 30 30                           de -> 00
+
+SAP_VISA_PERU_CLESS    1202s 062ms 100us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 52   fEnvRecMensaje R
+ 45 54 5F 4F 4B 20 28 30 29                        ET_OK (0)
+
+SAP_VISA_PERU_CLESS    1202s 062ms 169us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 73 61 69 20 30 36                               sai 06
+
+SAP_VISA_PERU_CLESS    1202s 117ms 600us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20      fEnvRecMensaje 
+
+SAP_VISA_PERU_CLESS    1202s 117ms 659us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 47 73 74 47 6C 6F 62 61 6C 65 73 2E 69 49 6E 64   GstGlobales.iInd
+ 65 78 4D 65 72 63 68 28 31 29 20 2D 3E 20 30      exMerch(1) -> 0
+
+SAP_VISA_PERU_CLESS    1202s 117ms 690us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 70 4D 65 6E 73 61 6A 65 2E 63 52 65 73 65   > pMensaje.cRese
+ 72 76 65 64 46 69 6C 65 35 35 4C 65 6E 20         rvedFile55Len 
+
+SAP_VISA_PERU_CLESS    1202s 117ms 719us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 5F 34 01 00 82                                    _4...
+
+SAP_VISA_PERU_CLESS    1202s 117ms 739us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F                                                o
+
+SAP_VISA_PERU_CLESS    1202s 117ms 770us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1202s 117ms 799us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 28   fEnvRecMensaje (
+ 43 29                                             C)
+
+SAP_VISA_PERU_CLESS    1202s 117ms 819us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 28   fEnvRecMensaje (
+ 44 29                                             D)
+
+SAP_VISA_PERU_CLESS    1202s 136ms 929us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 41 73 73 65 6D 62 6C 65   miIsoMadAssemble
+
+SAP_VISA_PERU_CLESS    1202s 137ms 030us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 41 73 73 65 6D 62 6C 65   miIsoMadAssemble
+ 20 2D 20 63 75 69 42 6D 70 54 79 70 65 5B 30 5D    - cuiBmpType[0]
+ 5B 30 5D 20 2D 3E 20 30 30 30 31                  [0] -> 0001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 069us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 137ms 099us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 179us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 34                     th -> 0004
+
+SAP_VISA_PERU_CLESS    1202s 137ms 240us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 349us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 137ms 400us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 490us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 137ms 539us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 590us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 36                     th -> 0006
+
+SAP_VISA_PERU_CLESS    1202s 137ms 629us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 699us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 137ms 750us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 780us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 63                     th -> 000c
+
+SAP_VISA_PERU_CLESS    1202s 137ms 819us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1202s 137ms 909us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 137ms 989us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 138ms 099us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 130us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 138ms 220us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 279us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 138ms 369us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 419us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 138ms 509us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 529us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 138ms 650us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 670us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 138ms 740us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 770us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 138ms 799us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 36                     th -> 0006
+
+SAP_VISA_PERU_CLESS    1202s 138ms 830us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1202s 138ms 920us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 138ms 950us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 139ms 059us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 079us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 139ms 149us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 210us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 139ms 300us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 349us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 139ms 439us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 490us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 139ms 580us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 609us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 139ms 719us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 750us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 139ms 869us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 139ms 899us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 140ms 239us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 140ms 290us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 140ms 370us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 140ms 399us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 140ms 489us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 140ms 519us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 140ms 550us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 33                     th -> 0003
+
+SAP_VISA_PERU_CLESS    1202s 140ms 589us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 31                              -> 0001
+
+SAP_VISA_PERU_CLESS    1202s 140ms 709us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 140ms 740us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 140ms 830us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 140ms 879us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 140ms 940us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 33                     th -> 0003
+
+SAP_VISA_PERU_CLESS    1202s 141ms 020us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 31                              -> 0001
+
+SAP_VISA_PERU_CLESS    1202s 141ms 120us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 141ms 149us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1202s 141ms 210us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 32                     th -> 0002
+
+SAP_VISA_PERU_CLESS    1202s 141ms 270us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 2D 3E    uiLengthType ->
+ 20 30 30 30 31                                     0001
+
+SAP_VISA_PERU_CLESS    1202s 141ms 360us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 141ms 380us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 141ms 499us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 141ms 530us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 141ms 620us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 141ms 669us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 141ms 759us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 141ms 810us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 141ms 900us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 141ms 939us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 142ms 020us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 142ms 049us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 142ms 119us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 142ms 139us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 142ms 229us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 142ms 260us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 142ms 319us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 142ms 380us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1202s 142ms 470us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1202s 142ms 520us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 37                                          007
+
+SAP_VISA_PERU_CLESS    1202s 142ms 560us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 32 35                     th -> 0025
+
+SAP_VISA_PERU_CLESS    1202s 142ms 620us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 32                              -> 0002
+
+SAP_VISA_PERU_CLESS    1202s 142ms 679us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 52 45 4C 45 41 53 45 5F 45 4D 56 20 31 20 2D    RELEASE_EMV 1 -
+ 3E 20 63                                          > c
+
+SAP_VISA_PERU_CLESS    1202s 142ms 700us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 28 32   EncryptCFB_V3 (2
+ 29                                                )
+
+SAP_VISA_PERU_CLESS    1202s 265ms 789us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1202s 325ms 620us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1202s 645ms 620us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1202s 935ms 729us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1202s 995ms 799us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 055ms 980us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 115ms 680us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 175ms 739us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 236ms 699us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 295ms 720us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 355ms 949us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 415ms 729us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 475ms 809us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 535ms 599us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 595ms 579us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 45 6E 63 72 79 70 74 43 46 42 5F 56 33 20 63 20   EncryptCFB_V3 c 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 595ms 690us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 595ms 720us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 595ms 780us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 595ms 810us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1203s 595ms 870us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 595ms 900us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1203s 595ms 960us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 595ms 990us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1203s 596ms 060us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 080us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 596ms 150us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 180us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 596ms 250us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 270us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 596ms 369us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 389us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 596ms 459us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 479us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 596ms 549us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 569us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 596ms 639us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 669us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 596ms 729us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 759us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 596ms 819us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 849us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 596ms 909us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 596ms 939us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 31                                          001
+
+SAP_VISA_PERU_CLESS    1203s 596ms 980us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 42 4D 50 53 6F 75 72 63 65 4C 65 6E 67    uiBMPSourceLeng
+ 74 68 20 2D 3E 20 30 30 30 33                     th -> 0003
+
+SAP_VISA_PERU_CLESS    1203s 597ms 009us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 4C 65 6E 67 74 68 54 79 70 65 20 31 20    uiLengthType 1 
+ 2D 3E 20 30 30 30 31                              -> 0001
+
+SAP_VISA_PERU_CLESS    1203s 597ms 080us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 109us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 597ms 170us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 199us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 597ms 269us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 310us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 36                                          006
+
+SAP_VISA_PERU_CLESS    1203s 597ms 369us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 400us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 597ms 469us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 490us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 32                                          002
+
+SAP_VISA_PERU_CLESS    1203s 597ms 569us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 590us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 597ms 670us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 690us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 597ms 760us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 790us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 597ms 850us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 880us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 597ms 940us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 597ms 970us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 38                                          008
+
+SAP_VISA_PERU_CLESS    1203s 598ms 050us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 598ms 079us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 598ms 150us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 598ms 179us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 598ms 250us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 598ms 269us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 598ms 359us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72         miBMPassembler
+
+SAP_VISA_PERU_CLESS    1203s 598ms 390us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 42 4D 50 61 73 73 65 6D 62 6C 65 72 20 2D   miBMPassembler -
+ 20 75 69 44 61 74 61 54 79 70 65 20 2D 3E 20 30    uiDataType -> 0
+ 30 30 34                                          004
+
+SAP_VISA_PERU_CLESS    1203s 665ms 979us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 54 52 41 4E 53 4D 49 54 49 45 4E 44 4F 2E 2E    TRANSMITIENDO..
+ 2E                                                .
+
+SAP_VISA_PERU_CLESS    1203s 666ms 220us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 53 65 6E 64 4D 73 67 49 53 4F                   SendMsgISO
+
+SAP_VISA_PERU_CLESS    1203s 666ms 690us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 53 65 6E 64 4D 73 67 49 53 4F                     SendMsgISO
+
+SAP_VISA_PERU_CLESS    1203s 668ms 169us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 69 54 6D 70 20 31 20 2D 3E 20 32 32 33          iTmp 1 -> 223
+
+SAP_VISA_PERU_CLESS    1203s 668ms 200us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 78 5B 32 32 33 5D                              Tx[223]
+
+SAP_VISA_PERU_CLESS    1203s 668ms 220us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 00 DD 60 00 06 00 00 02 00 30 20 05 80 20 C0 86   ..`......0 .. ..
+ 14 00 00 00 00 00 00 00 01 20 00 01 38 00 51 00   ......... ..8.Q.
+ 06 00 37 23 94 D9 A7 77 D8 1C BF BE 08 D2 51 73   ..7#...w......Qs
+ 70 B1 32 B0 41 B1 33 33 37 30 30 30 31 37 33 33   p.2.A.3370001733
+ 37 35 36 34 33 34 30 20 20 20 20 20 20 06 04 00   7564340      ...
+ 12 30 30 30 30 30 30 30 30 30 30 32 30 00 63 5F   .000000000020.c_
+ 34 01 00 82 02 5C 00 9F 26 08 4D EE 7C 53 C7 FD   4....\..&.M.|S..
+ 9B 4E 9F 27 01 80 9F 36 02 01 67 9F 10 07 06 01   .N.'...6..g.....
+ 0A 03 A0 20 00 95 05 00 00 00 80 00 9F 34 03 1E   ... .........4..
+ 03 00 9F 37 04 F3 90 1E CC 9A 03 14 05 21 00 03   ...7.........!..
+ 33 38 63 00 58 00 09 32 30 30 30 33 34 30 30 35   38c.X..200034005
+ 00 45 32 31 01 38 01 28 00 84 00 00 00 07 02 01   .E21.8.(........
+ 19 00 21 00 00 00 00 01 05 00 14 00 01 00 01 04   ..!.............
+ 00 20 14 05 16 17 36 18 33 70 00 17 FC C6 10      . ....6.3p.....
+
+SAP_VISA_PERU_CLESS    1203s 668ms 300us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 75 63 54 69 70 6F 44 4F 70 65 72 61 63 69 6F    ucTipoDOperacio
+ 6E 20 2D 3E 20 30 33                              n -> 03
+
+SAP_VISA_PERU_CLESS    1203s 835ms 859us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 69 54 6D 70 20 32 20 2D 3E 20 31 37 37          iTmp 2 -> 177
+
+SAP_VISA_PERU_CLESS    1203s 835ms 939us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 31 29                                       o(1)
+
+SAP_VISA_PERU_CLESS    1203s 835ms 959us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1203s 835ms 990us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 47 73   TRACE 02(A) - Gs
+ 74 47 6C 6F 62 61 6C 65 73 2E 75 63 54 69 70 6F   tGlobales.ucTipo
+ 44 4F 70 65 72 61 63 69 6F 6E 20 2D 3E 20 33      DOperacion -> 3
+
+SAP_VISA_PERU_CLESS    1203s 836ms 029us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 47 73   TRACE 02(A) - Gs
+ 74 47 6C 6F 62 61 6C 65 73 2E 69 49 6E 64 65 78   tGlobales.iIndex
+ 4D 65 72 63 68 20 2D 3E 20 30                     Merch -> 0
+
+SAP_VISA_PERU_CLESS    1203s 836ms 060us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 69 49   TRACE 02(A) - iI
+ 6E 63 72 65 6D 65 6E 74 61 72 54 72 61 63 65 20   ncrementarTrace 
+ 2D 3E 20 31                                       -> 1
+
+SAP_VISA_PERU_CLESS    1203s 836ms 099us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 69 49   TRACE 02(A) - iI
+ 6E 63 72 65 6D 65 6E 74 61 72 54 69 63 6B 65 74   ncrementarTicket
+ 20 2D 3E 20 30                                     -> 0
+
+SAP_VISA_PERU_CLESS    1203s 836ms 170us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 6C 4E   TRACE 02(A) - lN
+ 6F 54 72 61 7A 61 20 2D 3E 20 31 33 38            oTraza -> 138
+
+SAP_VISA_PERU_CLESS    1203s 836ms 199us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 41 29 20 2D 20 6C 4E   TRACE 02(A) - lN
+ 6F 54 69 63 6B 65 74 20 2D 3E 20 33 34            oTicket -> 34
+
+SAP_VISA_PERU_CLESS    1203s 837ms 659us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 44 29 20 2D 20 6C 4E   TRACE 02(D) - lN
+ 6F 54 72 61 7A 61 20 2D 3E 20 31 33 39            oTraza -> 139
+
+SAP_VISA_PERU_CLESS    1203s 837ms 719us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 54 52 41 43 45 20 30 32 28 44 29 20 2D 20 6C 4E   TRACE 02(D) - lN
+ 6F 54 69 63 6B 65 74 20 2D 3E 20 33 34            oTicket -> 34
+
+SAP_VISA_PERU_CLESS    1203s 837ms 749us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 32 29                                       o(2)
+
+SAP_VISA_PERU_CLESS    1203s 837ms 770us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1203s 837ms 800us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 33 29                                       o(3)
+
+SAP_VISA_PERU_CLESS    1203s 837ms 829us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1203s 856ms 389us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 34 29                                       o(4)
+
+SAP_VISA_PERU_CLESS    1203s 856ms 430us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1203s 874ms 479us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 3E 20 73 74 72 50 77 73 49 6E 67 65 6E 69 65 72   > strPwsIngenier
+ 6F 28 35 29                                       o(5)
+
+SAP_VISA_PERU_CLESS    1203s 874ms 520us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 31 36 36 38 33 31 00 01 01 01                     166831....
+
+SAP_VISA_PERU_CLESS    1203s 874ms 559us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 52 78 5B 31 37 35 5D                              Rx[175]
+
+SAP_VISA_PERU_CLESS    1203s 874ms 579us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 00 AF 60 00 00 00 06 02 10 30 38 01 00 0E C0 82   ..`......08.....
+ 06 00 00 00 00 00 00 00 01 00 00 01 38 10 12 39   ............8..9
+ 05 21 00 10 30 37 31 38 37 38 20 20 20 20 20 20   .!..071878      
+ 31 34 30 35 35 34 31 31 33 33 37 30 30 30 31 37   1405541133700017
+ 33 33 37 35 36 34 33 34 30 20 20 20 20 20 20 06   337564340      .
+ 04 00 04 8A 02 30 30 00 19 00 17 30 35 39 39 30   .....00....05990
+ 31 34 31 34 31 30 30 34 36 30 30 35 00 67 30 31   141410046005.g01
+ 42 43 50 20 42 41 4E 43 4F 20 44 45 20 43 52 45   BCP BANCO DE CRE
+ 44 49 54 4F 20 20 20 20 38 34 48 30 30 30 30 30   DITO    84H00000
+ 30 30 30 30 54 65 78 74 6F 31 0A 1E 54 65 78 74   0000Texto1..Text
+ 6F 32 0A 54 65 78 74 6F 33 0A 1E 54 65 78 74 6F   o2.Texto3..Texto
+ 34                                                4
+
+SAP_VISA_PERU_CLESS    1203s 874ms 729us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65                                          ble
+
+SAP_VISA_PERU_CLESS    1203s 874ms 790us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65 20 2D 20 47 70 75 63 42 4D 50 5B 30 5D   ble - GpucBMP[0]
+
+SAP_VISA_PERU_CLESS    1203s 874ms 819us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 30 32 31 30 00 00 00 00                           0210....
+
+SAP_VISA_PERU_CLESS    1203s 874ms 839us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65 20 2D 20 70 73 74 4D 61 64 4F 75 74 2D   ble - pstMadOut-
+ 3E 73 74 72 4D 65 73 73 61 67 65 54 79 70 65      >strMessageType
+
+SAP_VISA_PERU_CLESS    1203s 874ms 870us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 30 32 30 30 00 00 00 00                           0200....
+
+SAP_VISA_PERU_CLESS    1203s 874ms 970us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 6D 69 49 73 6F 4D 61 64 44 69 73 61 73 73 65 6D   miIsoMadDisassem
+ 62 6C 65 20 2D 20 4F 4B 20 33                     ble - OK 3
+
+SAP_VISA_PERU_CLESS    1203s 875ms 000us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73         fiValidaCampos
+
+SAP_VISA_PERU_CLESS    1203s 875ms 039us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 75 63 54 69 70 6F 44 4F 70 65 72 61 63 69   > ucTipoDOperaci
+ 6F 6E 20 28 33 32 29                              on (32)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 070us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 73 74 72 4D 65 73 73 61 67 65 54 79 70 65   > strMessageType
+ 20 28 30 32 30 30 29                               (0200)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 109us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 52 65 63 4D 65 6E 2D 3E 73 74 72 53 79 73   > RecMen->strSys
+ 74 65 6D 73 54 72 61 63 65 4E 75 6D 20 28 30 30   temsTraceNum (00
+ 30 31 33 38 29                                    0138)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 180us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 53 65 6E 74 4D 65 6E 2D 3E 73 74 72 53 79   > SentMen->strSy
+ 73 74 65 6D 73 54 72 61 63 65 4E 75 6D 20 28 30   stemsTraceNum (0
+ 30 30 31 33 38 29                                 00138)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 250us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 52 65 63 4D 65 6E 2D 3E 73 74 72 54 65 72   > RecMen->strTer
+ 6D 69 6E 61 6C 49 64 65 6E 74 20 28 33 33 37 30   minalIdent (3370
+ 30 30 31 37 29                                    0017)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 289us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 2D   fiValidaCampos -
+ 3E 20 53 65 6E 74 4D 65 6E 2D 3E 73 74 72 54 65   > SentMen->strTe
+ 72 6D 69 6E 61 6C 49 64 65 6E 74 20 28 33 33 37   rminalIdent (337
+ 30 30 30 31 37 29                                 00017)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 350us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 69 56 61 6C 69 64 61 43 61 6D 70 6F 73 20 52   fiValidaCampos R
+ 45 54 5F 4F 4B 28 32 29                           ET_OK(2)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 410us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 47   fEnvRecMensaje G
+ 70 75 63 45 4D 56 52 65 73 70 6F 6E 73 65 43 6F   pucEMVResponseCo
+ 64 65 20 2D 3E 20 30 30                           de -> 00
+
+SAP_VISA_PERU_CLESS    1203s 875ms 440us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 52   fEnvRecMensaje R
+ 45 54 5F 4F 4B 20 28 30 29                        ET_OK (0)
+
+SAP_VISA_PERU_CLESS    1203s 875ms 489us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 66 45 6E 76 52 65 63 4D 65 6E 73 61 6A 65 20 2D   fEnvRecMensaje -
+ 20 73 61 69 20 30 36                               sai 06
+
+SAP_VISA_PERU_CLESS    1203s 937ms 030us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 31            Disconnect 01
+
+SAP_VISA_PERU_CLESS    1203s 937ms 079us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 32            Disconnect 02
+
+SAP_VISA_PERU_CLESS    1203s 937ms 730us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 33            Disconnect 03
+
+SAP_VISA_PERU_CLESS    1203s 937ms 760us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 35            Disconnect 05
+
+SAP_VISA_PERU_CLESS    1213s 847ms 610us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 31            Disconnect 01
+
+SAP_VISA_PERU_CLESS    1213s 847ms 659us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 33            Disconnect 03
+
+SAP_VISA_PERU_CLESS    1213s 847ms 680us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 35            Disconnect 05
+
+SAP_VISA_PERU_CLESS    1257s 924ms 569us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 31            Disconnect 01
+
+SAP_VISA_PERU_CLESS    1257s 924ms 610us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 33            Disconnect 03
+
+SAP_VISA_PERU_CLESS    1257s 924ms 639us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 35            Disconnect 05
+
+SAP_VISA_PERU_CLESS    1318s 173ms 890us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 31            Disconnect 01
+
+SAP_VISA_PERU_CLESS    1318s 173ms 919us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 33            Disconnect 03
+
+SAP_VISA_PERU_CLESS    1318s 173ms 950us
+< 0x90 0x00 > : SAP_VISA_PERU_CLESS
+ 44 69 73 63 6F 6E 6E 65 63 74 20 30 35            Disconnect 05
+
